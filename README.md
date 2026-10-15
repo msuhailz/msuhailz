@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001E2B,50:00684A,100:00ED64&height=190&section=header&text=Mohammed%20Suhail%20Zamani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20MongoDB&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
 
 <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-Application%20Modernization-00ED64?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=001E2B" alt="MongoDB"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001E2B" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/msuhailz"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001E2B" alt="LinkedIn"/></a>
 <a href="mailto:msuhail.zamani@mongodb.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001E2B" alt="Email"/></a>
 
 <br/>
@@ -21,7 +21,7 @@ I'm a software engineer on MongoDB's **Application Modernization Platform (AMP)*
 <div align="center">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-YOUR--HANDLE-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/msuhailz"><img src="https://img.shields.io/badge/LinkedIn-msuhailz-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:msuhail.zamani@mongodb.com"><img src="https://img.shields.io/badge/Email-msuhail.zamani%40mongodb.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/msuhailz"><img src="https://img.shields.io/badge/GitHub-msuhailz-181717?style=flat-square&logo=github" alt="GitHub"/></a>
 </p>
