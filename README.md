@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001E2B,50:00684A,100:00ED64&height=190&section=header&text=Mohammed%20Suhail%20Zamani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20MongoDB&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001E2B,50:00684A,100:00ED64&height=190&section=header&text=Mohammed%20Suhail%20Zamani&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20III%20%C2%B7%20MongoDB&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
 
 <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-Application%20Modernization-00ED64?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=001E2B" alt="MongoDB"/></a>
 <a href="https://www.linkedin.com/in/msuhailz"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001E2B" alt="LinkedIn"/></a>
@@ -14,7 +14,7 @@
 
 ## 👋 About me
 
-I'm a software engineer on MongoDB's **Application Modernization Platform (AMP)** team. We help enterprises move legacy applications onto modern architectures, and I work on the part that makes that *installable*: the packaging, the CLI, and the release machinery that put a suite of containerized analysis tools onto a customer's host and keep them up to date.
+I'm a Software Engineer III on MongoDB's **Application Modernization Platform (AMP)** team. We help enterprises move legacy applications onto modern architectures, and I work on the part that makes that *installable*: the packaging, the CLI, and the release machinery that put a suite of containerized analysis tools onto a customer's host and keep them up to date.
 
 ## 📬 Reach me
 
